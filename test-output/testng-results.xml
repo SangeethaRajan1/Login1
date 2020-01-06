@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+    <line>
+      <![CDATA[Element is clickable]]>
+    </line>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+    <line>
+      <![CDATA[Elemet found]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32798" started-at="2020-01-04T03:14:54Z" finished-at="2020-01-04T03:15:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32798" started-at="2020-01-04T03:14:54Z" finished-at="2020-01-04T03:15:27Z">
+      <class name="regressiontestscript.Flipkart_end_to_end">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:regressiontestscript.Flipkart_end_to_end@42d8062c]" name="openapp" is-config="true" duration-ms="12633" started-at="2020-01-04T03:14:54Z" finished-at="2020-01-04T03:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="validLoginlogout()[pri:0, instance:regressiontestscript.Flipkart_end_to_end@42d8062c]" name="validLoginlogout" duration-ms="15257" started-at="2020-01-04T03:15:07Z" finished-at="2020-01-04T03:15:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+            <line>
+              <![CDATA[Element is clickable]]>
+            </line>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+            <line>
+              <![CDATA[Elemet found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validLoginlogout -->
+        <test-method status="PASS" signature="closeapp(org.testng.ITestResult)[pri:0, instance:regressiontestscript.Flipkart_end_to_end@42d8062c]" name="closeapp" is-config="true" duration-ms="4893" started-at="2020-01-04T03:15:22Z" finished-at="2020-01-04T03:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLoginlogout status=SUCCESS method=Flipkart_end_to_end.validLoginlogout()[pri:0, instance:regressiontestscript.Flipkart_end_to_end@42d8062c] output=Elemet found]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- regressiontestscript.Flipkart_end_to_end -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
